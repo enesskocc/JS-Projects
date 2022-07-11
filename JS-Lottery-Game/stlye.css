@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-top: 75px;
+    /* background-color: purple; */
+    /* display: flex;
+    text-align: center;
+    justify-content: center; */
+    margin-left: 50px;
+}
+
+#list{
+    margin-top: 10px;
+}

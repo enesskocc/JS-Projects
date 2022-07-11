@@ -28,4 +28,8 @@ JS-Calculator-Project --> https://enesskocc.github.io/JS-Calculator-Project/
 
 JS-Loan-calculation-project --> https://enesskocc.github.io/JS-Loan-calculation-project/
 
+JS-Lottery-Game-project --> https://enesskocc.github.io/JS-Lottery-Game/
+
+JS-Checkout-project --> https://enesskocc.github.io/JS-Checkout-project/
+
 
